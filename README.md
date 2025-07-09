@@ -19,6 +19,8 @@
 ## 🖼️ Preview
 
 ![TaskMate Screenshot](./To-do_List.jpeg)
+![TaskMate Screenshot](./To-do_List2.jpeg)
+![TaskMate Screenshot](./To-do_List3.jpeg)
 
 
 ---
