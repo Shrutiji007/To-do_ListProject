@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>TaskMate</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+</head>
+<body class="ocean">
+  <div class="app-container">
+    <h1 class="title"><span class="typewriter">TaskMate</span></h1>
+    <p class="quote">"Ambition without action becomes anxiety"</p>
+
+
+    <form id="task-form">
+      <input type="text" id="task-input" placeholder="Add a new task..." />
+      <button type="submit" id="add-btn">Add</button>
+    </form>
+
+    <ul id="task-list"></ul>
+  </div>
+
+  <!-- Theme selector at bottom left -->
+  <div class="theme-selector">
+    <div class="theme-btn ocean-theme" data-theme="ocean"></div>
+    <div class="theme-btn pastel-theme" data-theme="pastel"></div>
+    <div class="theme-btn nature-theme" data-theme="nature"></div>
+  </div>
+
+  <!-- Audio -->
+  <audio id="ding" src="ding.mp3" preload="auto"></audio>
+
+  <!-- Confetti -->
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
