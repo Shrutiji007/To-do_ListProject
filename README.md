@@ -43,7 +43,7 @@
 ---
 
 ## 🚀 Live Demo
-[Click here to use TaskMate](https://Shrutij007.github.io/To-do_ListProject/)
+[Click here to use TaskMate](https://shrutiji007.github.io/To-do_ListProject/)
 
 ---
 
