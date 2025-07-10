@@ -19,6 +19,8 @@
 ## 🖼️ Preview
 
 ![TaskMate Screenshot](./To-do_List.jpeg)
+![TaskMate Screenshot](./To-do_List2.jpeg)
+![TaskMate Screenshot](./To-do_List3.jpeg)
 
 
 ---
@@ -41,11 +43,11 @@
 ---
 
 ## 🚀 Live Demo
-[Click here to use TaskMate](https://Shrutij007.github.io/To-do_ListProject/)
+[Click here to use TaskMate](https://shrutiji007.github.io/To-do_ListProject/)
 
 ---
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by [Shruti](https://github.com/Shrutij007)
+Made with ❤️ by [Shruti](https://github.com/Shrutiji007)
 
