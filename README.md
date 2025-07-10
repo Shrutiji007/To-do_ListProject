@@ -47,7 +47,7 @@
 
 ---
 
-## 🧑‍💻 Author
+## 👩🏻‍💻 Author
 
 Made with ❤️ by [Shruti](https://github.com/Shrutiji007)
 
